@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    background-size: 100% auto;
+    color: rgb(9, 255, 0);
+    font-size: large;
+}
+
+a:link {
+    color: rgb(229, 255, 0);
+    font-size: 0.75cm;
+}
+
+a:visited {
+    color: red
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+
+
+
+h3 {
+    color: rgb(0, 255, 0);
+}
